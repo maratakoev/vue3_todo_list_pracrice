@@ -1,5 +1,8 @@
 # to_do_list_3
 
+### Скриншот приложения
+![Скриншот](src/Screen_shot.png)
+
 ## Project setup
 ```
 npm install
